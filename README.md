@@ -1,5 +1,11 @@
 # Diigital Transformator check-list
-Digital Transformation (DT) is on the hype. But we all know now that DT is not a destination, it's indeed a journey. A journey through other hypes.
+Digital Transformation (DT) is on the hype now. But we all know that DT is not a destination, it's indeed a journey. A journey through other hypes.
+
+So I created a short list of some steps on that journey so that every transformer could easily understand whether they are on the wave or not.
+
+## How to use
+Copy the list below into your notebook, fork the repository, or just write down on a list of paper. Strike out all the lines, where you see a bolded word, you know is already in use in your company.
+
 
 ## Check-list
 Create a **website**, then transform.
@@ -10,7 +16,7 @@ Hire a designer, consider **UX/Usability**, then transform.
 
 Go **mobile-first**, then transform.
 
-Collectt he **Big Data**, then transform.
+Collect the **Big Data**, then transform.
 
 Go **digital**, do **performance marketing**, then transform.
 
