@@ -1,4 +1,4 @@
-# Diigital Transformator check-list
+# Digital Transformer check-list
 Digital Transformation (DT) is on the hype now. But we all know that DT is not a destination, it's indeed a journey. A journey through other hypes.
 
 So I created a short list of some steps on that journey so that every transformer could easily understand whether they are on the wave or not.
